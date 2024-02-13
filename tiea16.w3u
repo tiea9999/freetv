@@ -6,54 +6,54 @@
        "groups": [
 
 
-
+{
+        "name": "ทีวีดิจิตอล",
+       "image"             :     "https://dl.dropboxusercontent.com/scl/fi/pnnlx2atyz5mqzzbhvdqb/digital_nonTrue.png?rlkey=nxy9r654ziimvec3rybctrx8v&dl=0",
+        "url": "https://www.dropbox.com/scl/fi/99m3zg0onm3ezveboth2o/tv.w3u?rlkey=x00aol8ugamfcwj18te10nurm&dl=0",
+        "import": false
+},
 {
 
         "name": "Movie Live",
        "image" : "https://dl.dropboxusercontent.com/scl/fi/q6rf9j2v23xhd0g7yyw8y/Movieonline_nontrue.png?rlkey=6b97yhpzg43tkp9jdprkbh4kr&dl=0",
-        "url": "https://www.dropbox.com/scl/fi/1c2ax4r7pjdvht2a5opqi/moviestv.w3u?rlkey=lfmafhn9khjxziy6o1smskx5a&dl=1",
+        "url": "https://www.dropbox.com/scl/fi/1c2ax4r7pjdvht2a5opqi/moviestv.w3u?rlkey=lfmafhn9khjxziy6o1smskx5a&dl=0",
         "import": false
 
 },
 {
-        "name": "ทีวีดิจิตอล",
-       "image" :"https://dl.dropboxusercontent.com/scl/fi/pnnlx2atyz5mqzzbhvdqb/digital_nonTrue.png?rlkey=nxy9r654ziimvec3rybctrx8v&dl=0",
-        "url":"https://www.dropbox.com/scl/fi/99m3zg0onm3ezveboth2o/tv.w3u?rlkey=x00aol8ugamfcwj18te10nurm&dl=1",
-        "import": false
-},
-{
         "name": "ช่องกีฬาไทยกีฬารอบโลก",
         "image" : "https://dl.dropboxusercontent.com/scl/fi/l8eagp6ijh9333amqpz1u/SPORT_luxdo.png?rlkey=4lnwq9r63hedmbmlbnf3qwris&dl=0",
-        "url": "https://www.dropbox.com/scl/fi/o3z93l2ncen1cit3fsnyl/sport.w3u?rlkey=pkzz7io08amd979w1992jevmu&dl=1",
+        "url": "https://www.dropbox.com/scl/fi/o3z93l2ncen1cit3fsnyl/sport.w3u?rlkey=pkzz7io08amd979w1992jevmu&dl=0",
         "import": false
 },
 {
         "name": "สารคดี",
         "image" : "https://dl.dropboxusercontent.com/scl/fi/kkzoz0pda2kbxwcnnk226/Doc_luxdo.png?rlkey=r9msi6i83n4o6e3i4ufv42ufq&dl=0",
-        "url": "https://www.dropbox.com/scl/fi/a9jai56afs0n79r184iyh/Documentary-1.w3u?rlkey=adbja6w9izk1dawof1u8zcxz0&dl=1",
+        "url": "https://www.dropbox.com/scl/fi/a9jai56afs0n79r184iyh/Documentary-1.w3u?rlkey=adbja6w9izk1dawof1u8zcxz0&dl=0",
         "import": false
 },
 {
        "name": "การ์ตูน",
         "image" : "https://dl.dropboxusercontent.com/scl/fi/45ojiw52ytel7bvzymtn4/ Cartoon_luxdo.png?rlkey=iekl9fchyovvqgyoov2qssp8c&dl=0",
-       "url": "https://www.dropbox.com/scl/fi/l83nr5sa5igl6e42njt41/1.w3u?rlkey=15a1uzybyvluy58y8vqfpnwm9&dl=1",
+       "url": "https://www.dropbox.com/scl/fi/l83nr5sa5igl6e42njt41/1.w3u?rlkey=15a1uzybyvluy58y8vqfpnwm9&dl=0",
 		"import": false
 },
 {
 
        "name": "MOVIES",
       "image": "https://dl.dropboxusercontent.com/scl/fi/eawsp4pkzf6yjhsywsm3p/Main_Movie.png?rlkey=jd03yofu3fg9wtc7gi8n9taef&dl=0",
-	"url": "https://www.dropbox.com/scl/fi/r3kkw7n3cf6tmhgkobt25/9nunghd_.w3u?rlkey=oazhj76jsyhknhau3zxldk3yr&dl=1",
-       "import": false
+       "url":"https://www.dropbox.com/scl/fi/r3kkw7n3cf6tmhgkobt25/9nunghd_.w3u?rlkey=oazhj76jsyhknhau3zxldk3yr&dl=0",
+         "import":"true"
 
 },
 {
-           "name": "Series",
+            "name": "Series",
            "image": "https://dl.dropboxusercontent.com/scl/fi/mm985elkdnkhmv3v4bq3l/Series.png?rlkey=sh5wntduka77is1yftni2wzlz&dl=0",
-           "url": "https://www.dropbox.com/scl/fi/uu2h20fu5sl16t6jew6j6/.txt?rlkey=8jac4fzmydpokwes7qj4f63o6&dl=1",
-            "import": false
+           "url": "https://www.dropbox.com/scl/fi/uu2h20fu5sl16t6jew6j6/.txt?rlkey=8jac4fzmydpokwes7qj4f63o6&dl=0",
+"import": "true"
 },
 {
+
 "name"              :     "▶️MOVIES & Series ",
 "image"             :     "https://dl.dropboxusercontent.com/scl/fi/b3spglmnywj31v1pa12ja/Movie_Series_luxdo.png?rlkey=zb67wsm1h7as6vhssj2h5c0r6&dl=0",
 "url"               :     "https://br14.short.gy/IPTVSociety",
@@ -65,4 +65,6 @@
 }
 ]
 },
-]           
+]
+},
+{      
