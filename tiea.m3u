@@ -122,7 +122,7 @@ https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 
 #EXTINF:-0 group-title="หนัง/ภาพยนตร์" tvg-id="hbo.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png", HBOTH
 https://dkl-o53d.cdn.akamaiz.com/dookeela/hbo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjQgMToxMToyNCBQTSZoYXNoX3ZhbHVlPWE1OG5qdFB2OXVqaWdnSWFheENPYUE9PSZ2YWxpZG1pbnV0ZXM9MjA=
-#EXTVLCOPT:http-referrer=https://dookeela.live:443/live-tv/hbo/
+#EXTVLCOPT:http-referrer=https://dkl-o53d.cdn.akamaiz.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=da901f885137d1f274dc7592762611ab:4d3536a7f0d996d6b013fc3dc1de7a3d
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0114/DASH/V0114.mpd
